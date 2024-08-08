@@ -3,7 +3,7 @@
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
-In this lab I'm going to walk through how to create an Active Directory home lab environment using Oracle VirtualBox. This includes network configurations, Domain Controller configurations, adding and managing domain users with PowerShell scripts, explanations of the Active Directory/domain environment, RAS/NAT services, DHCP, DNS, and more!
+In this lab I'm going to walk through how to create an Active Directory home lab environment using Oracle VirtualBox. This includes network configurations, Domain Controller configurations, adding and managing domain users with PowerShell scripts, explanations of the Active Directory/domain environment, RAS/NAT services, DHCP, DNS, and more! (mini corporate network)
 <br />
 
 
